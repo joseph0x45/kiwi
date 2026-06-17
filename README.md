@@ -1,2 +1,2 @@
 # kiwi
-Simple task manager based on todo.txt
+Life is made of experiences innit
