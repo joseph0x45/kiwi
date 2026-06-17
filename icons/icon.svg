@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="80" fill="#F4EEDE"/>
+  <!-- Kiwi fruit cross-section -->
+  <!-- Outer skin -->
+  <circle cx="256" cy="256" r="200" fill="#7B9E87"/>
+  <!-- White pith ring -->
+  <circle cx="256" cy="256" r="185" fill="#F0EBD8"/>
+  <!-- Flesh -->
+  <circle cx="256" cy="256" r="165" fill="#C8D9A0"/>
+  <!-- Center core -->
+  <circle cx="256" cy="256" r="38" fill="#F4EEDE"/>
+  <!-- Seeds — 8 segments radiating out -->
+  <g fill="#2B2924" opacity="0.75">
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(0 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(45 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(90 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(135 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(180 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(225 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(270 256 256)"/>
+    <ellipse cx="256" cy="118" rx="9" ry="16" transform="rotate(315 256 256)"/>
+  </g>
+  <!-- Segment lines -->
+  <g stroke="#F4EEDE" stroke-width="2" opacity="0.6">
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(0 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(45 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(90 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(135 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(180 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(225 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(270 256 256)"/>
+    <line x1="256" y1="91" x2="256" y2="218" transform="rotate(315 256 256)"/>
+  </g>
+</svg>
