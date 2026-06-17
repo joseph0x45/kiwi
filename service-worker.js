@@ -1,4 +1,4 @@
-const CACHE = 'kiwi-v1';
+const CACHE = 'kiwi-v2';
 
 const SHELL = [
   '/',
